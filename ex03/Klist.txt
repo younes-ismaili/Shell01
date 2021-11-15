@@ -1,0 +1,6 @@
+Credentials cache: API:B2BA02C8-A127-4628-B9C8-152DAEE01F7B
+        Principal: yismaili@1337.MA
+
+  Issued                Expires               Principal
+Sep 20 14:03:06 2021  Sep 21 00:03:06 2021  krbtgt/1337.MA@1337.MA
+Sep 20 14:03:08 2021  Sep 21 00:03:06 2021  HTTP/iscsi.1337.ma@1337.MA
